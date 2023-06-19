@@ -23,4 +23,4 @@
 - full-stack BI разработчик для направления QA (проект ВТБ). 
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](t.me/@AlexeySolodkin)
+- [Telegram](https://t.me/@AlexeySolodkin)
